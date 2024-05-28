@@ -16,7 +16,7 @@ scripts are hosted in a serverless ECS fargate cluster
 - Migrated existing test scripts from postman to the newly developed
 automation framework.
 - Tools used
-    -Flask, Requests, HTML, CSS, Bootstrap 5, Docker, AWS Fargate
+    - Flask, Requests, HTML, CSS, Bootstrap 5, Docker, AWS Fargate
 
 **Trimble , Chennai— Graduate Technical Intern ( Jan 2023 - June 2023 )**
 - Worked on building REST API backend systems.
@@ -38,9 +38,13 @@ with lambda and DynamoDB.
 ## Certifications
 **AWS Certified Solutions Architect Associate - Dec'24**
 ![AWS SAA](assets/images/aws-kca.png)
+
 **AWS Knowledge Cloud Essentials - Badge - Nov’23**
 ![AWS KCA](assets/images/aws-saa.png)
 
 
 
 ## Courses
+
+
+[Blog](blog.md)
