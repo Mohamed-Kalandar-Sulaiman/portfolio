@@ -1,6 +1,22 @@
-###<span style="color:#154c79">Backend Developer</span>
+### Backend Developer
 
 
+## Sections
+- [Skills](#skills)
+    - [Techincal Skills](#technical-skills)
+    - [Knowledge base](#knowledge-base)
+    - [Frameworks](#frameworks)
+    - [Knowledge base](#knowledge-base)
+    - [Areas of Interests](#areas-of-interests)
+    - [Programming Languages](#programming-languages)
+
+
+- [Education](#education)
+- [Work Experience](#work-experience)
+- [Projects](#projects)
+- [Certifications](#certifications)
+- [Udemy Courses](#udemy-courses)
+- [Contact](#contact)
 
 ## Skills
 ### Technical Skills
@@ -41,10 +57,12 @@
 - SQL
 - HTML, CSS , JavaScript
 
+
 ## Education
 - B.E  (EEE)  Thiagarajar College of engineering  Apr’23  CGPA  : 8.99 
 - HSC  (Computer Science Stream) SPIC School      Mar’19  Score : 554/600
 - SSLC (Tamilnadu State Board ) SPIC School       Mar’17  Score : 488/500
+
 
 ## Work Experience
 **Trimble , Chennai - Associate SDET ( July 2023 - Present )**
@@ -85,6 +103,9 @@ with lambda and DynamoDB.
 
 
 ## Udemy Courses
+[Udemy Courses](sections/pages/udemy.md)
+
+
 **Fundamentals of Backend Engineering - Jan'24**
 [![Fundamentals of Backend Engineering](assets/udemy/fundamentals_of_backend.jpg)](https://www.udemy.com/certificate/UC-0567325a-2cc9-492e-adac-1119dfaebdb7/)
 
@@ -112,20 +133,15 @@ with lambda and DynamoDB.
 
 
 
-## Resume
-[Download Resume](assets/resume.pdf)
+## Contact 
+[Download Resume](assets/resume/resume.pdf)
+
+[Linked In](https://www.linkedin.com/in/mohamed-kalandar-sulaiman/)
+
+[Leet Code](https://leetcode.com/u/Mohamed_Sulaiman/)
 
 
 
-
-
-
-
-
-
-
-
-
-
+## Blogs
 
 [Blog](blogs/blog.md)
