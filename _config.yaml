@@ -1,5 +1,6 @@
+---
 title: S Mohamed Kalandar Sulaiman
-logo: /assets/images/dp.jpg
+logo: ![Logo](/assets/images/dp.jpg){:class="rounded-logo"}
 description: Landing Page
 show_downloads: false
 google_analytics: no
@@ -8,4 +9,9 @@ project:
   show_maintained_by: false
   show_hosted_by: false
   show_view_project_link: false
+
+---
+![Logo](/assets/images/dp.jpg){:class="rounded-logo"}
+
+Landing Page
 
