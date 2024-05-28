@@ -37,14 +37,19 @@ with lambda and DynamoDB.
 
 ## Certifications
 **AWS Certified Solutions Architect Associate - Dec'24**
-![AWS SAA](assets/images/aws-kca.png)
+![AWS SAA](assets/images/aws-kca.png)(https://www.credly.com/badges/584d1905-4e3d-491a-8a8c-19511ff33dd7/public_url)
 
 **AWS Knowledge Cloud Essentials - Badge - Nov’23**
-![AWS KCA](assets/images/aws-saa.png)
+![AWS KCA](assets/images/aws-saa.png)(https://www.credly.com/badges/af2837e6-e61b-487b-b0a4-00f0ab3524e3/public_url)
 
 
 
 ## Courses
+**AWS Certified Solutions Architect Associate - Dec'24**
+![AWS SAA](assets/images/aws-kca.png)
+
+**AWS Knowledge Cloud Essentials - Badge - Nov’23**
+![AWS KCA](assets/images/aws-saa.png)
 
 
 [Blog](blog.md)
