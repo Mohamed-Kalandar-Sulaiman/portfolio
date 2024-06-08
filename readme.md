@@ -1,8 +1,7 @@
 <div>
-<h1 style="color:#546bff">Backend Developer</h1>
+<h1 style="color:#546bff"><b>Backend Developer</b></h1>
 </div>
 
-# Backend Developer
 
 Passionate software engineer with consistent efforts in learning new stuffs. Iam interested on working in distributed systems. I actively learn new technologies and apply in my work as well my personal projects. Primiarily a python devloper but would prefer to be language agnostic. Love backend engineering with essential front end skills . 
 
@@ -212,99 +211,5 @@ with AWS lambda and AWS DynamoDB.
 
 
 # EXPERIMENTAL SECTIONS
-<style>
-    .container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 800px;
-        position: relative;
-    }
-    .carousel {
-        display: flex;
-        overflow: hidden;
-        width: 60%;
-        border: 5px solid black;
-        margin: auto;
-    }
-    .carousel img {
-        flex-shrink: 0;
-        min-width: 100%;
-        transition: transform 0.5s ease;
-        margin: 20px;
-    }
-    .button {
-        position: absolute;
-        top: 50%;
-        transform: translateY(-50%);
-        background-color: #ddd;
-        border: none;
-        padding: 10px;
-        cursor: pointer;
-    }
-    .button-left {
-        left: 10px;
-    }
-    .button-right {
-        right: 10px;
-    }
-</style>
 
-<div class="container">
-    <button class="button button-left" onclick="prevImage()">&#10094;</button>
-    <div class="carousel" id="carousel">
-        <a href="https://www.udemy.com/certificate/UC-0567325a-2cc9-492e-adac-1119dfaebdb7/">
-            <img src="assets/udemy/fundamentals_of_backend.jpg" alt="Fundamentals of Backend Engineering">
-        </a>
-        <a href="https://www.udemy.com/certificate/UC-198cb049-8f83-4e9b-9062-8f5d70ef5f8a/">
-            <img src="assets/udemy/fundamentals_of_database.jpg" alt="Fundamentals of Database">
-        </a>
-        <a href="https://www.udemy.com/certificate/UC-fff58b86-8ece-4f24-9a10-5683c9552890/">
-            <img src="assets/udemy/docker_and_kubernetes.jpg" alt="Docker and Kubernetes">
-        </a>
-        <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-316e9a9b-1811-4483-9696-af6144a08a32.pdf">
-            <img src="assets/udemy/django.jpg" alt="The Complete Django Web Development Course">
-        </a>
-        <a href="https://www.udemy.com/certificate/UC-d505192a-61dc-4cb0-adf3-6f6347b3400d/">
-            <img src="assets/udemy/redis.jpg" alt="Master Redis - Beginner to Advanced">
-        </a>
-        <a href="https://www.udemy.com/certificate/UC-aedcd303-6a49-453b-a04c-fda2251f08b3/">
-            <img src="assets/udemy/cassandra.jpg" alt="Apache Cassandra: Everything You Need To Know">
-        </a>
-        <a href="https://www.udemy.com">
-            <img src="assets/udemy/html_and_css.jpg" alt="HTML CSS">
-        </a>
-        <a href="https://www.udemy.com">
-            <img src="assets/udemy/html_and_css.jpg" alt="HTML CSS">
-        </a>
-    </div>
-    <button class="button button-right" onclick="nextImage()">&#10095;</button>
-</div>
-
-<script>
-    let currentIndex = 0;
-
-    function showImage(index) {
-        const carousel = document.getElementById('carousel');
-        const images = carousel.getElementsByTagName('a');
-        const imageWidth = images[0].offsetWidth;
-        carousel.style.transform = 'translateX(' + (-imageWidth * index) + 'px)';
-    }
-
-    function nextImage() {
-        const carousel = document.getElementById('carousel');
-        const images = carousel.getElementsByTagName('a');
-        currentIndex = (currentIndex + 1) % images.length;
-        showImage(currentIndex);
-    }
-
-    function prevImage() {
-        const carousel = document.getElementById('carousel');
-        const images = carousel.getElementsByTagName('a');
-        currentIndex = (currentIndex - 1 + images.length) % images.length;
-        showImage(currentIndex);
-    }
-</script>
-
-
-
+<custom-tag style="background-color: #f0f0f0; border-radius: 10px; padding: 5px 10px;">Your text here</custom-tag>
