@@ -212,48 +212,43 @@ with AWS lambda and AWS DynamoDB.
 
 
 # EXPERIMENTAL SECTIONS
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        .container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 800px;
-            position: relative;
-        }
-        .carousel {
-            display: flex;
-            overflow: hidden;
-            width: 60%;
-            border: 5px solid black;
-            margin: auto;
-        }
-        .carousel img {
-            flex-shrink: 0;
-            min-width: 100%;
-            transition: transform 0.5s ease;
-            margin: 20px;
-        }
-        .button {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            background-color: #ddd;
-            border: none;
-            padding: 10px;
-            cursor: pointer;
-        }
-        .button-left {
-            left: 10px;
-        }
-        .button-right {
-            right: 10px;
-        }
-    </style>
-</head>
-<body>
+<style>
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 800px;
+        position: relative;
+    }
+    .carousel {
+        display: flex;
+        overflow: hidden;
+        width: 60%;
+        border: 5px solid black;
+        margin: auto;
+    }
+    .carousel img {
+        flex-shrink: 0;
+        min-width: 100%;
+        transition: transform 0.5s ease;
+        margin: 20px;
+    }
+    .button {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: #ddd;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+    }
+    .button-left {
+        left: 10px;
+    }
+    .button-right {
+        right: 10px;
+    }
+</style>
 
 <div class="container">
     <button class="button button-left" onclick="prevImage()">&#10094;</button>
@@ -311,7 +306,5 @@ with AWS lambda and AWS DynamoDB.
     }
 </script>
 
-</body>
-</html>
 
 
