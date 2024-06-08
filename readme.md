@@ -201,7 +201,7 @@ with AWS lambda and AWS DynamoDB.
 
 
 
-<div style="overflow-x: auto; white-space: nowrap;">
+<div style="overflow-y: auto; white-space: nowrap;">
 
     **Fundamentals of Backend Engineering - Jan'24**
     <div style="display: inline-block; text-align: center; margin: 10px;">
