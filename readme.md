@@ -127,28 +127,28 @@ with AWS lambda and AWS DynamoDB.
 
 
 **Fundamentals of Backend Engineering - Jan'24**
-[<img src="assets/udemy/fundamentals_of_backend.jpg" alt="Fundamentals of Backend Engineering" style="width: 250px; height: 65px;">](https://www.udemy.com/certificate/UC-0567325a-2cc9-492e-adac-1119dfaebdb7/)
+[<img src="assets/udemy/fundamentals_of_backend.jpg" alt="Fundamentals of Backend Engineering" style="width: 1000px; height: 250px;">](https://www.udemy.com/certificate/UC-0567325a-2cc9-492e-adac-1119dfaebdb7/)
 
 **Fundamentals of DataBase Engineering - Jan'24**
-[<img src="assets/udemy/fundamentals_of_database.jpg" alt="Fundamentals of Database" style="width: 250px; height: 65px;">](https://www.udemy.com/certificate/UC-198cb049-8f83-4e9b-9062-8f5d70ef5f8a/)
+[<img src="assets/udemy/fundamentals_of_database.jpg" alt="Fundamentals of Database" style="width: 1000px; height: 250px;">](https://www.udemy.com/certificate/UC-198cb049-8f83-4e9b-9062-8f5d70ef5f8a/)
 
 **Udemy - Docker and Kubernetes - 2024 Practical Guide - Feb’24**
-[<img src="assets/udemy/docker_and_kubernetes.jpg" alt="Docker and Kubernetes" style="width: 250px; height: 65px;">](https://www.udemy.com/certificate/UC-fff58b86-8ece-4f24-9a10-5683c9552890/)
+[<img src="assets/udemy/docker_and_kubernetes.jpg" alt="Docker and Kubernetes" style="width: 1000px; height: 250px;">](https://www.udemy.com/certificate/UC-fff58b86-8ece-4f24-9a10-5683c9552890/)
 
 **Udemy -The Complete Django Web Development Course - Feb’24**
-[<img src="assets/udemy/django.jpg" alt="The Complete Django Web Development Course" style="width: 250px; height: 65px;">](https://udemy-certificate.s3.amazonaws.com/pdf/UC-316e9a9b-1811-4483-9696-af6144a08a32.pdf)
+[<img src="assets/udemy/django.jpg" alt="The Complete Django Web Development Course" style="width: 1000px; height: 250px;">](https://udemy-certificate.s3.amazonaws.com/pdf/UC-316e9a9b-1811-4483-9696-af6144a08a32.pdf)
 
 **Udemy - Master Redis - Beginner to Advanced, - May’24**
-[<img src="assets/udemy/redis.jpg" alt="Master Redis - Beginner to Advanced" style="width: 250px; height: 65px;">](https://www.udemy.com/certificate/UC-d505192a-61dc-4cb0-adf3-6f6347b3400d/)
+[<img src="assets/udemy/redis.jpg" alt="Master Redis - Beginner to Advanced" style="width: 1000px; height: 250px;">](https://www.udemy.com/certificate/UC-d505192a-61dc-4cb0-adf3-6f6347b3400d/)
 
 **Udemy - Apache Cassandra : Everything You Need To Know - May’24**
-[<img src="assets/udemy/cassandra.jpg" alt="Apache Cassandra: Everything You Need To Know" style="width: 250px; height: 65px;">](https://www.udemy.com/certificate/UC-aedcd303-6a49-453b-a04c-fda2251f08b3/)
+[<img src="assets/udemy/cassandra.jpg" alt="Apache Cassandra: Everything You Need To Know" style="width: 1000px; height: 250px;">](https://www.udemy.com/certificate/UC-aedcd303-6a49-453b-a04c-fda2251f08b3/)
 
 **HTML CSS**
-[<img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="width: 250px; height: 65px;">](https://www.udemy.com)
+[<img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="width: 1000px; height: 250px;">](https://www.udemy.com)
 
 **Mongodb**
-[<img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="width: 250px; height: 65px;">](https://www.udemy.com)
+[<img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="width: 1000px; height: 250px;">](https://www.udemy.com)
 
 
 
