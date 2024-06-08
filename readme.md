@@ -1,5 +1,7 @@
 # Backend Developer
 
+## Bio
+Passionate software engineer with consistent efforts in learning new stuffs. Iam interested on working in distributed systems. I actively learn new technologies and apply in my work as well my personal projects. Primiarily a python devloper but would prefer to be language agnostic. Love backend engineering with essential front end skills . 
 
 ## Sections
 - [Skills](#skills)
