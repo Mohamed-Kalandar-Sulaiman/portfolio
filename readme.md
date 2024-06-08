@@ -1,9 +1,9 @@
 # Backend Developer
 
-## Bio
+# Bio
 Passionate software engineer with consistent efforts in learning new stuffs. Iam interested on working in distributed systems. I actively learn new technologies and apply in my work as well my personal projects. Primiarily a python devloper but would prefer to be language agnostic. Love backend engineering with essential front end skills . 
 
-## Sections
+# Sections
 - [Skills](#skills)
     - [Techincal Skills](#technical-skills)
     - [Knowledge base](#knowledge-base)
@@ -19,8 +19,8 @@ Passionate software engineer with consistent efforts in learning new stuffs. Iam
 - [Udemy Courses](#udemy-courses)
 - [Contact](#contact)
 
-## Skills
-### Technical Skills
+# Skills
+## Technical Skills
 - Git & Github
 - REST API Design and Development
 - AWS
@@ -28,7 +28,7 @@ Passionate software engineer with consistent efforts in learning new stuffs. Iam
 - Kubernetes 
 - Postman
 
-### Knowledge Base
+## Knowledge Base
 - High Level System Design
 - Data Structures and Algorithms
 - OAuth 2.0
@@ -41,30 +41,30 @@ Passionate software engineer with consistent efforts in learning new stuffs. Iam
 
 
 
-### Frameworks
+## Frameworks
 - Flask
 - Django Rest Framework
 
 
-### Areas of Interests
+## Areas of Interests
 - Database Internals
 - Distributed Systems
 - Microservices
 
 
-### Programming Languages
+## Programming Languages
 - Python
 - SQL
 - HTML, CSS , JavaScript
 
 
-## Education
+# Education
 - B.E  (EEE)  Thiagarajar College of engineering  Apr’23  CGPA  : 8.99 
 - HSC  (Computer Science Stream) SPIC School      Mar’19  Score : 554/600
 - SSLC (Tamilnadu State Board ) SPIC School       Mar’17  Score : 488/500
 
 
-## Work Experience
+# Work Experience
 **Trimble , Chennai - Associate SDET ( July 2023 - Present )**
 - Designed and developed a custom API automation testing framework
 using python , along with UI using flask framework.
@@ -86,7 +86,7 @@ with AWS lambda and AWS DynamoDB.
 
 
 
-## Projects
+## **Projects**
 **URL Shortener - May 2024**
 - Most popular system design question for which I had designed and devloped all the intriguing components and techniques.
 - Implementation details 
@@ -112,7 +112,7 @@ with AWS lambda and AWS DynamoDB.
 
 
 
-## Certifications
+# Certifications
 **AWS Certified Solutions Architect Associate - Dec'24**
 [![AWS SAA](assets/aws/aws-kca.png)](https://www.credly.com/badges/584d1905-4e3d-491a-8a8c-19511ff33dd7/public_url)
 
@@ -125,44 +125,46 @@ with AWS lambda and AWS DynamoDB.
 ## Udemy Courses
 [Udemy Courses](sections/pages/udemy.md)
 
+
+
 **Fundamentals of Backend Engineering - Jan'24**
 <div style="text-align: center;">
-    [![image]<img src="assets/udemy/fundamentals_of_backend.jpg" alt="Fundamentals of Backend Engineering" style="border: 5px solid black;">](https://www.udemy.com/certificate/UC-0567325a-2cc9-492e-adac-1119dfaebdb7/)
+    [<a href="https://www.udemy.com/certificate/UC-0567325a-2cc9-492e-adac-1119dfaebdb7/"><img src="assets/udemy/fundamentals_of_backend.jpg" alt="Fundamentals of Backend Engineering" style="border: 5px solid black;"></a>](https://www.udemy.com/certificate/UC-0567325a-2cc9-492e-adac-1119dfaebdb7/)
 </div>
 
 **Fundamentals of Database Engineering - Jan'24**
 <div style="text-align: center;">
-    [<img src="assets/udemy/fundamentals_of_database.jpg" alt="Fundamentals of Database" style="border: 5px solid black;">](https://www.udemy.com/certificate/UC-198cb049-8f83-4e9b-9062-8f5d70ef5f8a/)
+    [<a href="https://www.udemy.com/certificate/UC-198cb049-8f83-4e9b-9062-8f5d70ef5f8a/"><img src="assets/udemy/fundamentals_of_database.jpg" alt="Fundamentals of Database" style="border: 5px solid black;"></a>](https://www.udemy.com/certificate/UC-198cb049-8f83-4e9b-9062-8f5d70ef5f8a/)
 </div>
 
 **Udemy - Docker and Kubernetes - 2024 Practical Guide - Feb’24**
 <div style="text-align: center;">
-    [<img src="assets/udemy/docker_and_kubernetes.jpg" alt="Docker and Kubernetes" style="border: 5px solid black;">](https://www.udemy.com/certificate/UC-fff58b86-8ece-4f24-9a10-5683c9552890/)
+    [<a href="https://www.udemy.com/certificate/UC-fff58b86-8ece-4f24-9a10-5683c9552890/"><img src="assets/udemy/docker_and_kubernetes.jpg" alt="Docker and Kubernetes" style="border: 5px solid black;"></a>](https://www.udemy.com/certificate/UC-fff58b86-8ece-4f24-9a10-5683c9552890/)
 </div>
 
 **Udemy - The Complete Django Web Development Course - Feb’24**
 <div style="text-align: center;">
-    [<img src="assets/udemy/django.jpg" alt="The Complete Django Web Development Course" style="border: 5px solid black;">](https://udemy-certificate.s3.amazonaws.com/pdf/UC-316e9a9b-1811-4483-9696-af6144a08a32.pdf)
+    [<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-316e9a9b-1811-4483-9696-af6144a08a32.pdf"><img src="assets/udemy/django.jpg" alt="The Complete Django Web Development Course" style="border: 5px solid black;"></a>](https://udemy-certificate.s3.amazonaws.com/pdf/UC-316e9a9b-1811-4483-9696-af6144a08a32.pdf)
 </div>
 
 **Udemy - Master Redis - Beginner to Advanced, - May’24**
 <div style="text-align: center;">
-    [<img src="assets/udemy/redis.jpg" alt="Master Redis - Beginner to Advanced" style="border: 5px solid black;">](https://www.udemy.com/certificate/UC-d505192a-61dc-4cb0-adf3-6f6347b3400d/)
+    [<a href="https://www.udemy.com/certificate/UC-d505192a-61dc-4cb0-adf3-6f6347b3400d/"><img src="assets/udemy/redis.jpg" alt="Master Redis - Beginner to Advanced" style="border: 5px solid black;"></a>](https://www.udemy.com/certificate/UC-d505192a-61dc-4cb0-adf3-6f6347b3400d/)
 </div>
 
 **Udemy - Apache Cassandra : Everything You Need To Know - May’24**
 <div style="text-align: center;">
-    [<img src="assets/udemy/cassandra.jpg" alt="Apache Cassandra: Everything You Need To Know" style="border: 5px solid black;">](https://www.udemy.com/certificate/UC-aedcd303-6a49-453b-a04c-fda2251f08b3/)
+    [<a href="https://www.udemy.com/certificate/UC-aedcd303-6a49-453b-a04c-fda2251f08b3/"><img src="assets/udemy/cassandra.jpg" alt="Apache Cassandra: Everything You Need To Know" style="border: 5px solid black;"></a>](https://www.udemy.com/certificate/UC-aedcd303-6a49-453b-a04c-fda2251f08b3/)
 </div>
 
 **HTML CSS**
 <div style="text-align: center;">
-    [<img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="border: 5px solid black;">](https://www.udemy.com)
+    [<a href="https://www.udemy.com"><img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="border: 5px solid black;"></a>](https://www.udemy.com)
 </div>
 
 **Mongodb**
 <div style="text-align: center;">
-    [<img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="border: 5px solid black;">](https://www.udemy.com)
+    [<a href="https://www.udemy.com"><img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="border: 5px solid black;"></a>](https://www.udemy.com)
 </div>
 
 
