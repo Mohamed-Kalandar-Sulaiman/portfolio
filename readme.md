@@ -109,6 +109,10 @@ with AWS lambda and AWS DynamoDB.
     - **Kubernetes** for deployment
 - [Project blog for more details ](sections/blogs/url_shortener.md)
 - [GitHub Repo]()
+<custom-tag style="background-color: #fcfffd; border-radius: 10px; padding: 5px 10px;">Docker</custom-tag>
+<custom-tag style="background-color: #fcfffd; border-radius: 10px; padding: 5px 10px;">Django</custom-tag>
+<custom-tag style="background-color: #fcfffd; border-radius: 10px; padding: 5px 10px;">Kubernetes</custom-tag>
+
 
 ### **Bus Ticketing and Tracking System - April 2023 - Final Year Project**
 - Python, Flask, SQlite, HTML, CSS, JS
@@ -212,4 +216,4 @@ with AWS lambda and AWS DynamoDB.
 
 # EXPERIMENTAL SECTIONS
 
-<custom-tag style="background-color: #f0f0f0; border-radius: 10px; padding: 5px 10px;">Your text here</custom-tag>
+<custom-tag style="background-color: #fcfffd; border-radius: 10px; padding: 5px 10px;">Your text here</custom-tag>
