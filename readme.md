@@ -114,11 +114,11 @@ with AWS lambda and AWS DynamoDB.
 
 ## Certifications
 **AWS Certified Solutions Architect Associate - Dec'24**
-[![AWS SAA](assets/images/aws-kca.png)](https://www.credly.com/badges/584d1905-4e3d-491a-8a8c-19511ff33dd7/public_url)
+[![AWS SAA](assets/aws/aws-kca.png)](https://www.credly.com/badges/584d1905-4e3d-491a-8a8c-19511ff33dd7/public_url)
 
 
 **AWS Knowledge Cloud Essentials - Badge - Nov’23**
-[![AWS KCA](assets/images/aws-saa.png)](https://www.credly.com/badges/af2837e6-e61b-487b-b0a4-00f0ab3524e3/public_url)
+[![AWS KCA](assets/aws/aws-saa.png)](https://www.credly.com/badges/af2837e6-e61b-487b-b0a4-00f0ab3524e3/public_url)
 
 
 
@@ -154,13 +154,13 @@ with AWS lambda and AWS DynamoDB.
 
 
 ## Contact 
-[Download Resume](assets/resume/resume.pdf)
+[![Download Resume](assets/images/cv.png)(assets/resume/resume.pdf)]
 
-[Linked In](https://www.linkedin.com/in/mohamed-kalandar-sulaiman/)
+[![Linked In](assets/images/linkedin.png)(https://www.linkedin.com/in/mohamed-kalandar-sulaiman/)]
 
-[Leet Code](https://leetcode.com/u/Mohamed_Sulaiman/)
+[![Leet Code](assets/images/leetcode.png)(https://leetcode.com/u/Mohamed_Sulaiman/)]
 
-
+[![BlogSpot](assets/images/blogspot.png)(https://mypersonalblog-mks.blogspot.com/)]
 
 ## Blogs
 
