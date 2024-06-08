@@ -22,18 +22,17 @@ Passionate software engineer with consistent efforts in learning new stuffs. Iam
 ## Skills
 ### Technical Skills
 - Git & Github
-- REST API Design and
-- Development
+- REST API Design and Development
 - AWS
 - Docker
-- Kubernetes basics
+- Kubernetes 
 - Postman
 
 ### Knowledge Base
 - High Level System Design
 - Data Structures and Algorithms
 - OAuth 2.0
-- OOPs
+- OOPS
 - Design Patterns
 - SOLID Principles
 - Agile
@@ -73,17 +72,36 @@ using python , along with UI using flask framework.
 scripts are hosted in a serverless ECS fargate cluster
 - Migrated existing test scripts from postman to the newly developed
 automation framework.
-- Tools used
-    - Flask, Requests, HTML, CSS, Bootstrap 5, Docker, AWS Fargate
+- Tools and Tecnologies used
+    - Flask
+    - Requests 
+    - HTML CSS Bootstrap 5
+    - Docker
+    - AWS Fargate
 
 **Trimble , Chennai— Graduate Technical Intern ( Jan 2023 - June 2023 )**
 - Worked on building REST API backend systems.
 - Tech stack involved cloud native serverless backend system in AWS
-with lambda and DynamoDB.
+with AWS lambda and AWS DynamoDB.
 
 
 
 ## Projects
+**URL Shortener - May 2024**
+- Most popular system design question for which I had designed and devloped all the intriguing components and techniques.
+- Implementation details 
+    - Rate limiter using **GRPC** as microservice.
+    - Backend API using **Django REST Framework**.
+    - Frontend using basic HTML , CSS , JS in django.
+    - **Redis** as cache
+    - **MongoDb** for persistence of User Profiles and Shortened URL
+    - **Cassandra** for persistence of usage analytics
+    - **Nginx** for proxying.
+    - Containerised as **docker** images 
+    - **Kubernetes** for deployment
+- [Project blog for more details ](sections/blogs/url_shortener.md)
+- [GitHub Repo]()
+
 **Bus Ticketing and Tracking System - April 2023 - Final Year Project**
 - Python, Flask, SQlite, HTML, CSS, JS
 - Raspberry Pi Pico , GPS Sensor , RFID module.
