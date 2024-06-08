@@ -109,9 +109,6 @@ with AWS lambda and AWS DynamoDB.
     - **Kubernetes** for deployment
 - [Project blog for more details ](sections/blogs/url_shortener.md)
 - [GitHub Repo]()
-<custom-tag style="background-color: #fcfffd; border-radius: 10px; padding: 5px 10px;">Docker</custom-tag>
-<custom-tag style="background-color: #fcfffd; border-radius: 10px; padding: 5px 10px;">Django</custom-tag>
-<custom-tag style="background-color: #fcfffd; border-radius: 10px; padding: 5px 10px;">Kubernetes</custom-tag>
 
 
 ### **Bus Ticketing and Tracking System - April 2023 - Final Year Project**
@@ -192,16 +189,16 @@ with AWS lambda and AWS DynamoDB.
 
 <div style="text-align: center;">
     <a href="assets/resume/resume.pdf">
-        <img src="assets/images/cv.png" alt="Download Resume" style="width: 75px; height: 75px; display: inline-block; margin: 0 10px;">
+        <img src="assets/images/cv.png" style="Download Resume" style="width: 75px; height: 75px; display: inline-block; margin: 0 10px;">
     </a>
     <a href="https://www.linkedin.com/in/mohamed-kalandar-sulaiman/">
-        <img src="assets/images/linkedin.png" alt="Linked In" style="width: 75px; height: 75px; display: inline-block; margin: 0 10px;">
+        <img src="assets/images/linkedin.png" style="Linked In" style="width: 75px; height: 75px; display: inline-block; margin: 0 10px;">
     </a>
     <a href="https://leetcode.com/u/Mohamed_Sulaiman/">
-        <img src="assets/images/leetcode.png" alt="Leet Code" style="width: 75px; height: 75px; display: inline-block; margin: 0 10px;">
+        <img src="assets/images/leetcode.png" style="Leet Code" style="width: 75px; height: 75px; display: inline-block; margin: 0 10px;">
     </a>
     <a href="https://mypersonalblog-mks.blogspot.com/">
-        <img src="assets/images/blogspot.png" alt="BlogSpot" style="width: 75px; height: 75px; display: inline-block; margin: 0 10px;">
+        <img src="assets/images/blogspot.png" style="BlogSpot" style="width: 75px; height: 75px; display: inline-block; margin: 0 10px;">
     </a>
 </div>
 
