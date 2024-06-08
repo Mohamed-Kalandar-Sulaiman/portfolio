@@ -127,7 +127,7 @@ with AWS lambda and AWS DynamoDB.
 
 **Fundamentals of Backend Engineering - Jan'24**
 <div style="text-align: center;">
-    [<img src="assets/udemy/fundamentals_of_backend.jpg" alt="Fundamentals of Backend Engineering" style="border: 5px solid black;">](https://www.udemy.com/certificate/UC-0567325a-2cc9-492e-adac-1119dfaebdb7/)
+    [![image]<img src="assets/udemy/fundamentals_of_backend.jpg" alt="Fundamentals of Backend Engineering" style="border: 5px solid black;">](https://www.udemy.com/certificate/UC-0567325a-2cc9-492e-adac-1119dfaebdb7/)
 </div>
 
 **Fundamentals of Database Engineering - Jan'24**
