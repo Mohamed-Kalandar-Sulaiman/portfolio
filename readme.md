@@ -154,13 +154,13 @@ with AWS lambda and AWS DynamoDB.
 
 
 ## Contact 
-[![Download Resume](assets/images/cv.png)(assets/resume/resume.pdf)]
+[![Download Resume](assets/images/cv.png)](assets/resume/resume.pdf)
 
-[![Linked In](assets/images/linkedin.png)(https://www.linkedin.com/in/mohamed-kalandar-sulaiman/)]
+[![Linked In](assets/images/linkedin.png)](https://www.linkedin.com/in/mohamed-kalandar-sulaiman/)
 
-[![Leet Code](assets/images/leetcode.png)(https://leetcode.com/u/Mohamed_Sulaiman/)]
+[![Leet Code](assets/images/leetcode.png)](https://leetcode.com/u/Mohamed_Sulaiman/)
 
-[![BlogSpot](assets/images/blogspot.png)(https://mypersonalblog-mks.blogspot.com/)]
+[![BlogSpot](assets/images/blogspot.png)](https://mypersonalblog-mks.blogspot.com/)
 
 ## Blogs
 
