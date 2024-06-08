@@ -195,6 +195,24 @@ with AWS lambda and AWS DynamoDB.
 [<img src="assets/images/blogspot.png" alt="BlogSpot" style="width: 75px; height: 75px;">](https://mypersonalblog-mks.blogspot.com/)
 
 
+## Contact
+<div style="text-align: center;">
+    <a href="assets/resume/resume.pdf">
+        <img src="assets/images/cv.png" alt="Download Resume" style="width: 75px; height: 75px; display: inline-block; margin: 0 10px;">
+    </a>
+    <a href="https://www.linkedin.com/in/mohamed-kalandar-sulaiman/">
+        <img src="assets/images/linkedin.png" alt="Linked In" style="width: 75px; height: 75px; display: inline-block; margin: 0 10px;">
+    </a>
+    <a href="https://leetcode.com/u/Mohamed_Sulaiman/">
+        <img src="assets/images/leetcode.png" alt="Leet Code" style="width: 75px; height: 75px; display: inline-block; margin: 0 10px;">
+    </a>
+    <a href="https://mypersonalblog-mks.blogspot.com/">
+        <img src="assets/images/blogspot.png" alt="BlogSpot" style="width: 75px; height: 75px; display: inline-block; margin: 0 10px;">
+    </a>
+</div>
+
+
+
 ## Blogs
 
 [Blog](blogs/blog.md)
@@ -202,57 +220,56 @@ with AWS lambda and AWS DynamoDB.
 
 
 
+# test
 
 <div style="height: 800px; overflow-y: auto;">
 
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-bottom: 20px;">
         <a href="https://www.udemy.com/certificate/UC-0567325a-2cc9-492e-adac-1119dfaebdb7/">
-            <img src="assets/udemy/fundamentals_of_backend.jpg" alt="Fundamentals of Backend Engineering" style="border: 5px solid black;">
+            <img src="assets/udemy/fundamentals_of_backend.jpg" alt="Fundamentals of Backend Engineering" style="border: 5px solid black; margin: 10px;">
         </a>
     </div>
 
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-bottom: 20px;">
         <a href="https://www.udemy.com/certificate/UC-198cb049-8f83-4e9b-9062-8f5d70ef5f8a/">
-            <img src="assets/udemy/fundamentals_of_database.jpg" alt="Fundamentals of Database" style="border: 5px solid black;">
+            <img src="assets/udemy/fundamentals_of_database.jpg" alt="Fundamentals of Database" style="border: 5px solid black; margin: 10px;">
         </a>
     </div>
 
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-bottom: 20px;">
         <a href="https://www.udemy.com/certificate/UC-fff58b86-8ece-4f24-9a10-5683c9552890/">
-            <img src="assets/udemy/docker_and_kubernetes.jpg" alt="Docker and Kubernetes" style="border: 5px solid black;">
+            <img src="assets/udemy/docker_and_kubernetes.jpg" alt="Docker and Kubernetes" style="border: 5px solid black; margin: 10px;">
         </a>
     </div>
 
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-bottom: 20px;">
         <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-316e9a9b-1811-4483-9696-af6144a08a32.pdf">
-            <img src="assets/udemy/django.jpg" alt="The Complete Django Web Development Course" style="border: 5px solid black;">
+            <img src="assets/udemy/django.jpg" alt="The Complete Django Web Development Course" style="border: 5px solid black; margin: 10px;">
         </a>
     </div>
 
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-bottom: 20px;">
         <a href="https://www.udemy.com/certificate/UC-d505192a-61dc-4cb0-adf3-6f6347b3400d/">
-            <img src="assets/udemy/redis.jpg" alt="Master Redis - Beginner to Advanced" style="border: 5px solid black;">
+            <img src="assets/udemy/redis.jpg" alt="Master Redis - Beginner to Advanced" style="border: 5px solid black; margin: 10px;">
         </a>
     </div>
 
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-bottom: 20px;">
         <a href="https://www.udemy.com/certificate/UC-aedcd303-6a49-453b-a04c-fda2251f08b3/">
-            <img src="assets/udemy/cassandra.jpg" alt="Apache Cassandra: Everything You Need To Know" style="border: 5px solid black;">
+            <img src="assets/udemy/cassandra.jpg" alt="Apache Cassandra: Everything You Need To Know" style="border: 5px solid black; margin: 10px;">
         </a>
     </div>
 
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-bottom: 20px;">
         <a href="https://www.udemy.com">
-            <img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="border: 5px solid black;">
+            <img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="border: 5px solid black; margin: 10px;">
         </a>
     </div>
 
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-bottom: 20px;">
         <a href="https://www.udemy.com">
-            <img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="border: 5px solid black;">
+            <img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="border: 5px solid black; margin: 10px;">
         </a>
     </div>
 
 </div>
-
-
