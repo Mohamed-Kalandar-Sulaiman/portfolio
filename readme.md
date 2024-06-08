@@ -153,20 +153,6 @@ with AWS lambda and AWS DynamoDB.
 
 
 ## Contact 
-[![Download Resume](assets/images/cv.png)](assets/resume/resume.pdf)
-
-[![Linked In](assets/images/linkedin.png)](https://www.linkedin.com/in/mohamed-kalandar-sulaiman/)
-
-[![Leet Code](assets/images/leetcode.png)](https://leetcode.com/u/Mohamed_Sulaiman/)
-
-[![BlogSpot](assets/images/blogspot.png)](https://mypersonalblog-mks.blogspot.com/)
-
-## Blogs
-
-[Blog](blogs/blog.md)
-
-
-## Contact 
 [<img src="assets/images/cv.png" alt="Download Resume" style="width: 100px; height: 100px;">](assets/resume/resume.pdf)
 
 [<img src="assets/images/linkedin.png" alt="Linked In" style="width: 100px; height: 100px;">](https://www.linkedin.com/in/mohamed-kalandar-sulaiman/)
@@ -174,6 +160,14 @@ with AWS lambda and AWS DynamoDB.
 [<img src="assets/images/leetcode.png" alt="Leet Code" style="width: 100px; height: 100px;">](https://leetcode.com/u/Mohamed_Sulaiman/)
 
 [<img src="assets/images/blogspot.png" alt="BlogSpot" style="width: 100px; height: 100px;">](https://mypersonalblog-mks.blogspot.com/)
+
+
+## Blogs
+
+[Blog](blogs/blog.md)
+
+
+
 
 ## Blogs
 
