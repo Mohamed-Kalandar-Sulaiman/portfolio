@@ -1,7 +1,6 @@
 
 ## Udemy Courses
 
-
 **Fundamentals of Backend Engineering - Jan'24**
 [![Fundamentals of Backend Engineering](assets/udemy/fundamentals_of_backend.jpg)](https://www.udemy.com/certificate/UC-0567325a-2cc9-492e-adac-1119dfaebdb7/)
 

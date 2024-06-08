@@ -6,7 +6,6 @@
     - [Techincal Skills](#technical-skills)
     - [Knowledge base](#knowledge-base)
     - [Frameworks](#frameworks)
-    - [Knowledge base](#knowledge-base)
     - [Areas of Interests](#areas-of-interests)
     - [Programming Languages](#programming-languages)
 
@@ -86,6 +85,7 @@ with lambda and DynamoDB.
 **Bus Ticketing and Tracking System - April 2023 - Final Year Project**
 - Python, Flask, SQlite, HTML, CSS, JS
 - Raspberry Pi Pico , GPS Sensor , RFID module.
+- [GitHub]()
 
 **Chat Application using Sockets - Feb 2022 - Hobby Project**
 - Python , CLI, Socket
