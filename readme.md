@@ -10,7 +10,7 @@ Passionate software engineer with consistent efforts in learning new stuffs. Iam
     - [Techincal Skills](#technical-skills)
     - [Knowledge base](#knowledge-base)
     - [Frameworks](#frameworks)
-    - [Database](#datbase)
+    - [Database](#database)
     - [Areas of Interests](#areas-of-interests)
     - [Programming Languages](#programming-languages)
 
@@ -51,7 +51,7 @@ Passionate software engineer with consistent efforts in learning new stuffs. Iam
 - Django Rest Framework
 - Fast API
 
-## Datbase
+## Database
 - MongoDB
 - Cassandra
 - Redis
