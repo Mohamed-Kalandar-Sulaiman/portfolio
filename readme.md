@@ -10,6 +10,7 @@ Passionate software engineer with consistent efforts in learning new stuffs. Iam
     - [Techincal Skills](#technical-skills)
     - [Knowledge base](#knowledge-base)
     - [Frameworks](#frameworks)
+    - [Database](#datbase)
     - [Areas of Interests](#areas-of-interests)
     - [Programming Languages](#programming-languages)
 
@@ -19,6 +20,7 @@ Passionate software engineer with consistent efforts in learning new stuffs. Iam
 - [Projects](#projects)
 - [Certifications](#certifications)
 - [Udemy Courses](#udemy-courses)
+- [Book Shelf]()
 - [Contact](#contact)
 
 
@@ -47,7 +49,12 @@ Passionate software engineer with consistent efforts in learning new stuffs. Iam
 ## Frameworks
 - Flask
 - Django Rest Framework
+- Fast API
 
+## Datbase
+- MongoDB
+- Cassandra
+- Redis
 
 
 ## Areas of Interests
@@ -95,7 +102,7 @@ with AWS lambda and AWS DynamoDB.
 
 
 # Projects
-### **URL Shortener - May 2024**
+### **URL Shortener - May 2024 - Working on it**
 - Most popular system design question for which I had designed and devloped all the intriguing components and techniques.
 - Implementation details 
     - Rate limiter using **GRPC** as microservice.
@@ -112,33 +119,40 @@ with AWS lambda and AWS DynamoDB.
 
 
 ### **Bus Ticketing and Tracking System - April 2023 - Final Year Project**
-- Python, Flask, SQlite, HTML, CSS, JS
-- Raspberry Pi Pico , GPS Sensor , RFID module.
-- [GitHub]()
+- RFID based bus ticketing system.
+- Technologies used
+    - Python, Flask, SQlite, HTML, CSS, JS
+    - Raspberry Pi Pico , GPS Sensor , RFID module.
+- [Project blog for more details ]()
+- [GitHub Repo](https://github.com/Mohamed-Sulaiman-EEE/INTITUTION_BUS_MANAGEMENT_SYSTEM)
+
 
 ### **Chat Application using Sockets - Feb 2022 - Hobby Project**
-- Python , CLI, Socket
+- Command line interfaced chatting app
+- Python , Socket
+- [Project blog for more details ](https://mypersonalblog-mks.blogspot.com/2022/02/online-chatting-app-using-sockets-in.html)
+- [GitHub Repo](https://github.com/Mohamed-Sulaiman-EEE/Online-Chat-Application-Using-sockets-in-Python)
 
 
 
 # Certifications
-### **AWS Certified Solutions Architect Associate - Dec'24**
+
+### **AWS Knowledge Cloud Essentials - Badge - Nov’23**
 [![AWS SAA](assets/aws/aws-kca.png)](https://www.credly.com/badges/584d1905-4e3d-491a-8a8c-19511ff33dd7/public_url)
 
 
-### **AWS Knowledge Cloud Essentials - Badge - Nov’23**
+### **AWS Certified Solutions Architect Associate - Dec'24**
 [![AWS KCA](assets/aws/aws-saa.png)](https://www.credly.com/badges/af2837e6-e61b-487b-b0a4-00f0ab3524e3/public_url)
 
 
 
 ## Udemy Courses
-<!-- #### [Udemy Courses](sections/pages/udemy.md) -->
 - **Udemy - Building Responsive World Websites with HTML CSS- June'23**
-- **Fundamentals of Backend Engineering - Jan'24**
-- **Fundamentals of Database Engineering - Jan'24**
-- **Udemy - Docker and Kubernetes - 2024 Practical Guide - Feb’24**
+- **Udemy - Fundamentals of Backend Engineering - Jan'24**
+- **Udemy - Fundamentals of Database Engineering - Jan'24**
+- **Udemy - Docker and Kubernetes 2024 Practical Guide - Feb’24**
 - **Udemy - The Complete Django Web Development Course - Feb’24**
-- **Udemy - Master Redis - Beginner to Advanced, - May’24**
+- **Udemy - Master Redis Beginner to Advanced, - May’24**
 - **Udemy - Apache Cassandra Introduction - May’24**
 - **Mongodb - Python Developer**
 - **Udemy - Introduction to Nginx - UpSkilling**
@@ -210,7 +224,3 @@ with AWS lambda and AWS DynamoDB.
 
 
 
-
-# EXPERIMENTAL SECTIONS
-
-<custom-tag style="background-color: #fcfffd; border-radius: 10px; padding: 5px 10px;">Your text here</custom-tag>
