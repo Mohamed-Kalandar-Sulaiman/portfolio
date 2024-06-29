@@ -138,11 +138,12 @@ with AWS lambda and AWS DynamoDB.
 # Certifications
 
 ### **AWS Knowledge Cloud Essentials - Badge - Nov’23**
-[![AWS SAA](assets/aws/aws-kca.png)](https://www.credly.com/badges/584d1905-4e3d-491a-8a8c-19511ff33dd7/public_url)
+[![AWS SAA](assets/aws/aws-kca.png)](https://www.credly.com/badges/af2837e6-e61b-487b-b0a4-00f0ab3524e3/public_url)
+
 
 
 ### **AWS Certified Solutions Architect Associate - Dec'24**
-[![AWS KCA](assets/aws/aws-saa.png)](https://www.credly.com/badges/af2837e6-e61b-487b-b0a4-00f0ab3524e3/public_url)
+[![AWS KCA](assets/aws/aws-saa.png)](https://www.credly.com/badges/584d1905-4e3d-491a-8a8c-19511ff33dd7/public_url)
 
 
 
@@ -152,9 +153,9 @@ with AWS lambda and AWS DynamoDB.
 - **Udemy - Fundamentals of Database Engineering - Jan'24**
 - **Udemy - Docker and Kubernetes 2024 Practical Guide - Feb’24**
 - **Udemy - The Complete Django Web Development Course - Feb’24**
+- **Mongodb - Python Developer- Mar'24**
 - **Udemy - Master Redis Beginner to Advanced, - May’24**
 - **Udemy - Apache Cassandra Introduction - May’24**
-- **Mongodb - Python Developer**
 - **Udemy - Introduction to Nginx - UpSkilling**
 - **Udemy - Fundamentals of Networking - UpSkilling**
 - **Udemy - Fundamentals of Operating System - UpSkilling**
@@ -162,6 +163,9 @@ with AWS lambda and AWS DynamoDB.
 - **Udemy - AWS Certified Database Specialisation - UpSkilling**
 
 
+<div style="text-align: center;">
+    <a href="https://www.udemy.com"><img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="border: 5px solid black;"></a>
+</div>
 
 <div style="text-align: center;">
     <a href="https://www.udemy.com/certificate/UC-0567325a-2cc9-492e-adac-1119dfaebdb7/"><img src="assets/udemy/fundamentals_of_backend.jpg" alt="Fundamentals of Backend Engineering" style="border: 5px solid black;"></a>
@@ -185,14 +189,6 @@ with AWS lambda and AWS DynamoDB.
 
 <div style="text-align: center;">
     <a href="https://www.udemy.com/certificate/UC-aedcd303-6a49-453b-a04c-fda2251f08b3/"><img src="assets/udemy/cassandra.jpg" alt="Apache Cassandra: Everything You Need To Know" style="border: 5px solid black;"></a>
-</div>
-
-<div style="text-align: center;">
-    <a href="https://www.udemy.com"><img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="border: 5px solid black;"></a>
-</div>
-
-<div style="text-align: center;">
-    <a href="https://www.udemy.com"><img src="assets/udemy/html_and_css.jpg" alt="HTML CSS" style="border: 5px solid black;"></a>
 </div>
 
 
